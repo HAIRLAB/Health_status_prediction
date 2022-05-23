@@ -6,8 +6,8 @@ This model is implemented using Python3 with dependencies specified in requireme
 pip install -r requirements.txt
 ```
 ## Code introduction
--tool.py
--common.py
--net.py
+- tool.py  
+- common.py  
+- net.py
 
 
