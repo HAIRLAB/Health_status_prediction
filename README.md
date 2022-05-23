@@ -9,7 +9,7 @@ pip install -r requirements.txt
 xxxx
 ## Code Introduction
 - tool.py 
-- common.py ![common.py](https://github.com/HAIRLAB/Health_status_prediction/blob/main/common.py)
+- [common.py](https://github.com/HAIRLAB/Health_status_prediction/blob/main/common.py)
 - net.py
 - 1-wx_inner.ipynb
 
