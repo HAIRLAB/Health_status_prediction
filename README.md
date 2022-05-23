@@ -8,9 +8,9 @@ pip install -r requirements.txt
 ## Data Preparation
 xxxx
 ## Code Introduction
-- [tool.py](https://github.com/HAIRLAB/Health_status_prediction/blob/main/tool.py) 
-- [common.py](https://github.com/HAIRLAB/Health_status_prediction/blob/main/common.py)
-- [net.py](https://github.com/HAIRLAB/Health_status_prediction/blob/main/net.py)
-- [1-wx_inner.ipynb](https://github.com/HAIRLAB/Health_status_prediction/blob/main/1-wx_inner.ipynb)
+- [tool.py](https://github.com/HAIRLAB/Health_status_prediction/blob/main/tool.py) : Early stopping function
+- [common.py](https://github.com/HAIRLAB/Health_status_prediction/blob/main/common.py): Including data preprocessing and Trainer class for model training and validation
+- [net.py](https://github.com/HAIRLAB/Health_status_prediction/blob/main/net.py) Model structure
+- [1-wx_inner.ipynb](https://github.com/HAIRLAB/Health_status_prediction/blob/main/1-wx_inner.ipynb) The pipeline of the TASK A for predicting the health status of 22 cells using the dataset A.
 
 
