@@ -5,9 +5,12 @@ This model is implemented using Python3 with dependencies specified in requireme
 ```
 pip install -r requirements.txt
 ```
-## Code introduction
+## Data Preparation
+xxxx
+## Code Introduction
 - tool.py  
 - common.py  
 - net.py
+- 1-wx_inner.ipynb
 
 
