@@ -3,8 +3,8 @@ This is a PyTorch implementation of the paper: Real-time personalized health sta
 Ye Yuan, Guijun Ma, Songpei Xu
 ## Environment Setup
 1. **System**  
-  OS: Ubuntu 18.04  
-  GPU (one card):   
+  - OS: Ubuntu 18.04  
+  - GPU (one card):   
     - NVIDIA GeForce RTX 3090 (24 GB)   
     - CUDA: 11.1   
     - Driver: 470.57.02
