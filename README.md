@@ -13,7 +13,9 @@ Ye Yuan, Guijun Ma, Songpei Xu
 ## Requirements
 This model is implemented using Python3 with dependencies specified in requirements.txt
 ```
-pip install torch==1.8.0+cu111 torchvision==0.9.0+cu111 torchaudio==0.8.0 -f https://download.pytorch.org/whl/torch_stable.html  
+# Install Pytorch, see the official website for details: https://pytorch.org/
+pip install torch==1.8.0+cu111 torchvision==0.9.0+cu111 torchaudio==0.8.0 -f https://download.pytorch.org/whl/torch_stable.html
+# Install other dependencies
 pip install -r requirements.txt
 ```
 ## Data Preparation
