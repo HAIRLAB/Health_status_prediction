@@ -4,10 +4,10 @@ Ye Yuan, Guijun Ma, Songpei Xu
 ## Environment Setup
 1. **System**  
   OS: Ubuntu 18.04  
-  GPU (one card):  
-      NVIDIA GeForce RTX 3090 (24 GB)  
-      CUDA: 11.1  
-      Driver: 470.57.02
+  GPU (one card):   
+  NVIDIA GeForce RTX 3090 (24 GB)   
+  CUDA: 11.1   
+  Driver: 470.57.02
 2. **Python version**  
   python = 3.8.8
 ## Requirements
