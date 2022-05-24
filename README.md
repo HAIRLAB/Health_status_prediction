@@ -1,6 +1,15 @@
 # Health_status_prediction
 This is a PyTorch implementation of the paper: Real-time personalized health status prediction of lithium-ion batteries using deep transfer learning. 
 Ye Yuan, Guijun Ma, Songpei Xu
+## Environment Setup
+1. System
+  OS: Ubuntu 18.04
+  GPU (one card)
+    NVIDIA GeForce RTX 3090 (24 GB)
+    CUDA: 11.1
+    Driver: 470.57.02
+2. Python version
+  python = 3.8.8
 ## Requirements
 This model is implemented using Python3 with dependencies specified in requirements.txt
 ```
