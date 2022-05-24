@@ -7,7 +7,7 @@ This model is implemented using Python3 with dependencies specified in requireme
 pip install -r requirements.txt
 ```
 ## Data Preparation
-[Data Download](http://mad-net.org:8765/explore.html?t=0.07357985389056099)  
+[Data Download](https://doi.org/10.17632/nsc7hnsg4s.2)  
 Yuan, Ye; Ma, Guijun; Xu, Songpei (2022), “The Dataset for: Real-time personalized health status prediction of lithium-ion batteries using deep transfer learning ”, Mendeley Data, V2, doi: 10.17632/nsc7hnsg4s.2
 ## Code Introduction
 - [tool.py](https://github.com/HAIRLAB/Health_status_prediction/blob/main/tool.py) : Early stopping function
