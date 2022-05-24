@@ -18,4 +18,6 @@ Yuan, Ye; Ma, Guijun; Xu, Songpei (2022), “The Dataset for: Real-time personal
 - [1-wx_inner.ipynb](https://github.com/HAIRLAB/Health_status_prediction/blob/main/1-wx_inner.ipynb) : The pipeline of the Task A  
 - [2-ne2wx.ipynb](https://github.com/HAIRLAB/Health_status_prediction/blob/main/2-ne2wx.ipynb) : The pipeline of the Task B  
 - [3-nmc2lfp.ipynb](https://github.com/HAIRLAB/Health_status_prediction/blob/main/3-nmc2lfp.ipynb) : The pipeline of the Task C
+## Contact
+If you have any questions, please contact songpeix@hust.edu.cn
 
