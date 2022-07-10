@@ -1,6 +1,7 @@
 # Health_status_prediction
 This is a PyTorch implementation of the paper: Real-time personalized health status prediction of lithium-ion batteries using deep transfer learning. 
 Ye Yuan, Guijun Ma, Songpei Xu
+![imamge](https://github.com/HAIRLAB/Health_status_prediction/blob/main/fig1.png)
 ## Environment Setup
 1. **System**  
   - OS: Ubuntu 18.04  
